@@ -66,5 +66,3 @@ Complete cloud security toolkit with 18 professional tools
 
 **💡 Building in public. Documenting the journey from trader to cloud security engineer.**
 ```
-
-🔐 18 production-ready security automation tools | AWS Cloud Security (S3, EC2, IAM) | Network Scanning | Threat Detection | Python + boto3
